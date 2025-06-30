@@ -27,11 +27,10 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 ## 📊 GitHub Stats
 
-![Afzaan's GitHub Stats](https://github-readme-stats.vercel.app/api?Afzaanali-Sayyed=afzaanali&show_icons=true&theme=radical)
+![Afzaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afzaanali-Sayyed&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Afzaanali-Sayyed=afzaanali&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afzaanali-Sayyed&layout=compact&theme=radical)
 
----
 
 ## 📫 How to Reach Me
 
